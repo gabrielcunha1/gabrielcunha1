@@ -10,7 +10,7 @@
 <a href="#"><img align="right" height="220em" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"/></a> 
 
 <div>
-  <h3 style="margin-left: 25px;">things I love:</h3>
+  <h3 style="margin-left: 25px;">Favorites things:</h3>
   <ul style="list-style:none;">
     <li>👩‍💻 coding</li>
     <li>🎮 games</li>
