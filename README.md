@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 
 <div align="center">
   <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" />
