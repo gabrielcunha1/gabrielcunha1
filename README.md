@@ -46,6 +46,7 @@
 
 <div align="center"> 
   <a href="https://github.com/gabrielcunha1/gta-project"><img src="https://i.imgur.com/ShGXCru.png" width="250px" height="135"></a>
+  <a href="https://gabrielcunha1.github.io/starbucks-project/"><img src="https://i.imgur.com/ShGXCru.png" width="250px" height="135"></a>
 </div>
 <br>
 <div align="center"> 
