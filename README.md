@@ -64,57 +64,9 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ## 🚀 Featured repositories
-
-<div align="center">
-
-  <a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/goRjM2L.png" 
-      width="260px" 
-      alt="Spider-Man Project" 
-    />
-  </a>
-
-  <a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/AD7eF9k.png" 
-      width="260px" 
-      alt="Starbucks Project" 
-    />
-  </a>
-
-  <a href="https://github.com/gabrielcunha1/gta-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/ShGXCru.png" 
-      width="260px" 
-      alt="GTA Project" 
-    />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank">
-    <img 
-      alt="All Repositories" 
-      title="All Repositories" 
-      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" 
-    />
-  </a>
-</div>
-
-<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
-
+💼 Front-End Projects (Main Portfolio)
+<div align="center"> <!-- Spider-Man Project --> <a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank"> <img src="https://i.imgur.com/goRjM2L.png" width="260px" alt="Spider-Man Project" /> </a> <!-- Starbucks Project --> <a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank"> <img src="https://i.imgur.com/AD7eF9k.png" width="260px" alt="Starbucks Project" /> </a> <!-- GTA Project --> <a href="https://github.com/gabrielcunha1/gta-project" target="_blank"> <img src="https://i.imgur.com/ShGXCru.png" width="260px" alt="GTA Project" /> </a> </div> <br>
+## 🧠 Experiments & Learning
+<div align="center"> <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank"> <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" /> </a> </div> <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 ## 👀 Visitors count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielcunha1/count.svg" />
-</div>
-
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"
-/>
-
+<div align="center"> <img src="https://profile-counter.glitch.me/gabrielcunha1/count.svg" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
