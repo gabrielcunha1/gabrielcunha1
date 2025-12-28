@@ -1,28 +1,4 @@
-<div align="center"> <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" /> </div> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel+☂️;Future+Full+Stack+Developer;Building+projects+and+learning+every+day;Welcome+to+my+GitHub" /> </a> </div> <br>
-
-<a href="#"><img align="right" height="210em" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"/></a>
-
-👋 About me
-
-I'm Gabriel, a 16-year-old developer passionate about technology and programming.
-Currently focused on Front-End Web Development, building practical projects to improve my skills and create a strong foundation for my first opportunity as a developer.
-
-I learn by doing — transforming ideas, designs, and references into real, functional websites.
-
-⭐ Favorite things
-
-👩‍💻 Coding
-
-🎮 Games
-
-📺 Animes & Movies
-
-☕ Coffee
-
-😼 Cats
-
-🎧 Music
-
+<div align="center"> <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" /> </div> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel+☂️;Future+Full+Stack+Developer;Building+projects+and+learning+every+day;Welcome+to+my+GitHub" /> </a> </div> <br> <a href="#"><img align="right" height="210em" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"/></a> ## 👋 About me I'm **Gabriel**, a **16-year-old developer** passionate about technology and programming. I’m currently focused on **web development**, creating practical projects to improve my skills and build a solid foundation for the future. I enjoy learning by doing, exploring new ideas, and turning designs into real, working websites. --- ## ⭐ Favorite things - 👩‍💻 Coding - 🎮 Games - 📺 Animes & Movies - ☕ Coffee - 😼 Cats - 🎧 Music <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 🛠️ Skills
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" /> </div> <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
