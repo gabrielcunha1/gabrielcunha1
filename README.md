@@ -50,11 +50,7 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 
 <br>
 
-<div align="center"> 
-  <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" />
-  </a>
-</div>
+
 
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
