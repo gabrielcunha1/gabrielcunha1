@@ -4,24 +4,70 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&lines=Hello%2C+I'm+Gabriel+👋;Front-end+Developer+in+Progress;Building+projects+and+learning+every+day;Welcome+to+my+GitHub!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel+☂️;Future+Full+Stack+Developer;Building+projects+and+learning+every+day;Welcome+to+my+GitHub" />
   </a>
 </div>
 
----
+<br>
 
 <a href="#"><img align="right" height="210em" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"/></a>
 
-## 👨‍💻 About Me
-I'm a **16-year-old developer** passionate about technology and web development.  
-Currently focused on **front-end development**, building practical projects to improve my skills and gain real-world experience.
+## 👋 About me
+I'm **Gabriel**, a **16-year-old developer** passionate about technology and programming.  
+I’m currently focused on **web development**, creating practical projects to improve my skills and build a solid foundation for the future.
 
-I enjoy learning by doing, experimenting with layouts, and turning ideas into working websites.
+I enjoy learning by doing, exploring new ideas, and turning designs into real, working websites.
 
 ---
 
-## ⭐ Interests
-- 👩‍💻 Coding & Web Development  
+## ⭐ Favorite things
+- 👩‍💻 Coding  
 - 🎮 Games  
-- 📺 Movies & Animes  
-- ☕ Coffee
+- 📺 Animes & Movies  
+- ☕ Coffee  
+- 😼 Cats  
+- 🎧 Music  
+
+<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+
+## 🛠️ Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</div>
+
+<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielcunha1&layout=compact&hide_border=true&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcunha1&theme=dracula" width="300px" height="163" />
+</div>
+
+<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+
+## 🚀 Featured repositories
+<div align="center"> 
+  <a href="https://github.com/gabrielcunha1/gta-project">
+    <img src="https://i.imgur.com/ShGXCru.png" width="250px" />
+  </a>
+  <a href="https://github.com/gabrielcunha1/starbucks-project/">
+    <img src="https://camo.githubusercontent.com/7c6cf52316ad7ffcbf6c7a7652ecc40890ce91a71932852c27bb19a8b8fdeec1/68747470733a2f2f692e696d6775722e636f6d2f4144376546396b2e706e67" width="250px" />
+  </a>
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" />
+  </a>
+</div>
+
+<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+
+## 👀 Visitors count
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gabrielcunha1/count.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
