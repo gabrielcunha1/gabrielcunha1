@@ -46,14 +46,7 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ## 🚀 Featured repositories
-<div align="center"> 
-  <a href="https://github.com/gabrielcunha1/gta-project">
-    <img src="https://i.imgur.com/ShGXCru.png" width="250px" />
-  </a>
-  <a href="https://github.com/gabrielcunha1/starbucks-project/">
-    <img src="https://camo.githubusercontent.com/7c6cf52316ad7ffcbf6c7a7652ecc40890ce91a71932852c27bb19a8b8fdeec1/68747470733a2f2f692e696d6775722e636f6d2f4144376546396b2e706e67" width="250px" />
-  </a>
-</div>
+<div align="center"> <!-- GTA Project --> <a href="https://github.com/gabrielcunha1/gta-project" target="_blank"> <img src="https://i.imgur.com/ShGXCru.png" width="250px" alt="GTA Project" /> </a> <!-- Starbucks Project --> <a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank"> <img src="https://i.imgur.com/AD7eF9k.png" width="250px" alt="Starbucks Project" /> </a> <!-- Spider-Man Project --> <a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank"> <img src="https://i.imgur.com/goRjM2L.png" width="250px" alt="Spider-Man Project" /> </a> </div> <br> <div align="center"> <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank"> <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" /> </a> </div>
 
 <br>
 
