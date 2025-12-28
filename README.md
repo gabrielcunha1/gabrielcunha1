@@ -27,7 +27,7 @@ I’m currently focused on **web development**, creating practical projects to i
 
 I enjoy learning by doing, exploring new ideas, and turning designs into real, working websites.
 
----
+
 
 ## ⭐ Favorite things
 
