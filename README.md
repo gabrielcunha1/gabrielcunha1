@@ -48,18 +48,12 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gabrielcunha1&show_icons=true&theme=dracula&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcunha1&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-  />
+  <img src="https://img.shields.io/badge/Front--End-HTML%20|%20CSS%20|%20JavaScript-7B68EE?style=for-the-badge" />
 </div>
+
 
 
 ## 🚀 Featured repositories
