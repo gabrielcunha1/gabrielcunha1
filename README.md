@@ -1,36 +1,32 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" />
+  <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" width="420" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel;Front-End+Developer+in+Progress;Building+projects+with+HTML%2C+CSS+%26+JavaScript;Welcome+to+my+GitHub"
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel;Front-End+Developer+in+Training;Building+real+projects+every+day"
     />
   </a>
 </div>
 
-<br />
+---
 
 ## 👋 About Me
 
-I'm **Gabriel**, a **front-end developer in training**, focused on building visually strong and well-structured web interfaces.
+Hi, I’m **Gabriel**, a **front-end developer in training** with a strong interest in building clean, responsive, and visually engaging web interfaces.
 
-I learn by creating real projects inspired by well-known brands and pop culture, applying best practices in **HTML, CSS, and JavaScript** while continuously improving layout, responsiveness, and code organization.
+I focus on **HTML, CSS, and JavaScript**, creating real projects inspired by well-known brands and pop culture to strengthen my fundamentals, improve visual composition, and write cleaner code.
 
-My goal is to grow professionally and secure my **first opportunity as a junior developer**, delivering clean, functional, and engaging user interfaces.
+My goal is to land my **first junior opportunity**, where I can grow professionally, learn from experienced developers, and contribute with dedication and creativity.
 
 ---
 
-## 🛠️ Core Skills
+## 🧠 Core Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </div>
-
-<p align="center">
-  <strong>Focus:</strong> Semantic HTML • Responsive CSS • JavaScript fundamentals • UI consistency
-</p>
 
 ---
 
@@ -54,22 +50,52 @@ My goal is to grow professionally and secure my **first opportunity as a junior 
 
 </div>
 
-<p align="center">
-  Each project focuses on layout structure, visual hierarchy, responsiveness, and clean front-end implementation.
-</p>
+---
+
+### 🕷️ Spider-Man Project  
+**HTML • CSS • JavaScript**
+
+A visually immersive landing page inspired by the Spider-Man universe, focused on layout structure, cinematic presentation, and responsive design.
+
+- Semantic HTML structure  
+- Modern CSS styling and layout control  
+- Responsive behavior across devices  
+- Visual hierarchy and spacing  
+
+🔗 Live Demo:  
+https://gabrielcunha1.github.io/spiderman-project/
 
 ---
 
-## 🧠 Learning & Experiments
+### ☕ Starbucks Project  
+**HTML • CSS**
 
-I continuously experiment with new ideas, layouts, and interactions to reinforce my fundamentals and evolve my front-end skills.
+A brand-inspired landing page focused on UI consistency and clean layout composition.
+
+- Brand-oriented visual design  
+- Responsive layout principles  
+- Organized and readable CSS  
+
+---
+
+### 🚗 GTA Project  
+**HTML • CSS • JavaScript**
+
+A dynamic landing page inspired by the GTA universe, created to explore visual impact and basic interactivity.
+
+- Interactive elements with JavaScript  
+- Section-based layout  
+- Strong visual identity  
+
+---
+
+## 🧪 Learning & Experiments
 
 <div align="center">
   <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank">
-    <img
-      alt="View All Repositories"
-      title="View All Repositories"
-      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white"
+    <img 
+      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" 
+      alt="View all repositories"
     />
   </a>
 </div>
@@ -79,8 +105,8 @@ I continuously experiment with new ideas, layouts, and interactions to reinforce
 ## 👀 Profile Views
 
 <div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square"
+  <img 
+    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square" 
     alt="Profile views"
   />
 </div>
