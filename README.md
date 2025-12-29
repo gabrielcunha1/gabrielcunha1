@@ -51,17 +51,12 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielcunha1&layout=compact&hide_border=true&theme=dracula" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcunha1&theme=dracula" 
-    width="300px" 
-    height="163" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gabrielcunha1&show_icons=true&theme=dracula&hide_border=true&count_private=true"
+    height="165"
   />
 </div>
 
-<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ## 🚀 Featured repositories
 
