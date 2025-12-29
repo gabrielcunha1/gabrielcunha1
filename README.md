@@ -55,6 +55,10 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
     src="https://github-readme-stats.vercel.app/api?username=gabrielcunha1&show_icons=true&theme=dracula&hide_border=true&count_private=true"
     height="165"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcunha1&layout=compact&theme=dracula&hide_border=true"
+    height="165"
+  />
 </div>
 
 
