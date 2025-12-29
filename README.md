@@ -4,114 +4,83 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel+☂️;Future+Full+Stack+Developer;Building+projects+and+learning+every+day;Welcome+to+my+GitHub" 
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel;Front-End+Developer+in+Progress;Building+projects+with+HTML%2C+CSS+%26+JavaScript;Welcome+to+my+GitHub"
     />
   </a>
 </div>
 
 <br />
 
-<a href="#">
-  <img 
-    align="right" 
-    height="210em" 
-    src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"
-  />
-</a>
+## 👋 About Me
 
-## 👋 About me
+I'm **Gabriel**, a **front-end developer in training**, focused on building visually strong and well-structured web interfaces.
 
-I'm **Gabriel**, a **16-year-old developer** passionate about technology and programming.  
-I’m currently focused on **web development**, creating practical projects to improve my skills and build a solid foundation for the future.
+I learn by creating real projects inspired by well-known brands and pop culture, applying best practices in **HTML, CSS, and JavaScript** while continuously improving layout, responsiveness, and code organization.
 
-I enjoy learning by doing, exploring new ideas, and turning designs into real, working websites.
+My goal is to grow professionally and secure my **first opportunity as a junior developer**, delivering clean, functional, and engaging user interfaces.
 
+---
 
-
-## ⭐ Favorite things
-
-- 👩‍💻 Coding  
-- 🎮 Games  
-- 📺 Animes & Movies  
-- ☕ Coffee  
-- 😼 Cats  
-- 🎧 Music  
-
-<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
-
-## 🛠️ Skills
+## 🛠️ Core Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </div>
 
-<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+<p align="center">
+  <strong>Focus:</strong> Semantic HTML • Responsive CSS • JavaScript fundamentals • UI consistency
+</p>
 
-## 📊 GitHub Overview
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Front--End-HTML%20|%20CSS%20|%20JavaScript-7B68EE?style=for-the-badge" />
-</div>
+## 🚀 Featured Projects
 
-
-
-## 🚀 Featured repositories
-
-### 💼 Front-End Projects (Main Portfolio)
+### 💼 Front-End Portfolio
 
 <div align="center">
 
-  <!-- Spider-Man Project -->
-  <a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/goRjM2L.png" 
-      width="260px" 
-      alt="Spider-Man Project" 
-    />
-  </a>
+<a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank">
+  <img src="https://i.imgur.com/goRjM2L.png" width="260px" alt="Spider-Man Project" />
+</a>
 
-  <!-- Starbucks Project -->
-  <a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/AD7eF9k.png" 
-      width="260px" 
-      alt="Starbucks Project" 
-    />
-  </a>
+<a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank">
+  <img src="https://i.imgur.com/AD7eF9k.png" width="260px" alt="Starbucks Project" />
+</a>
 
-  <!-- GTA Project -->
-  <a href="https://github.com/gabrielcunha1/gta-project" target="_blank">
-    <img 
-      src="https://i.imgur.com/ShGXCru.png" 
-      width="260px" 
-      alt="GTA Project" 
-    />
-  </a>
+<a href="https://github.com/gabrielcunha1/gta-project" target="_blank">
+  <img src="https://i.imgur.com/ShGXCru.png" width="260px" alt="GTA Project" />
+</a>
 
 </div>
 
-<br />
+<p align="center">
+  Each project focuses on layout structure, visual hierarchy, responsiveness, and clean front-end implementation.
+</p>
 
-### 🧠 Experiments & Learning
+---
+
+## 🧠 Learning & Experiments
+
+I continuously experiment with new ideas, layouts, and interactions to reinforce my fundamentals and evolve my front-end skills.
 
 <div align="center">
   <a href="https://github.com/gabrielcunha1?tab=repositories" target="_blank">
-    <img 
-      alt="View All Repositories" 
-      title="View All Repositories" 
-      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white" 
+    <img
+      alt="View All Repositories"
+      title="View All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7B68EE?style=for-the-badge&logo=repo&logoColor=white"
     />
   </a>
 </div>
 
-<img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
+---
 
 ## 👀 Profile Views
 
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square" 
+  <img
+    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square"
     alt="Profile views"
   />
 </div>
