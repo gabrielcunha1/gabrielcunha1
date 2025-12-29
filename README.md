@@ -114,13 +114,11 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 
 <img width="100%" height="40" src="https://i.imgur.com/dBaSKWF.gif" />
 
-## 👀 Visitors count
+## 👀 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielcunha1/count.svg" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=Profile%20Views&color=7B68EE&style=for-the-badge" 
+    alt="Profile views"
+  />
 </div>
-
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"
-/>
