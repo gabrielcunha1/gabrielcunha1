@@ -118,7 +118,7 @@ I enjoy learning by doing, exploring new ideas, and turning designs into real, w
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=Profile%20Views&color=7B68EE&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square" 
     alt="Profile views"
   />
 </div>
