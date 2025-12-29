@@ -74,7 +74,10 @@ A brand-inspired landing page focused on UI consistency and clean layout composi
 
 - Brand-oriented visual design  
 - Responsive layout principles  
-- Organized and readable CSS  
+- Organized and readable CSS
+
+🔗 Live Demo:  
+https://gabrielcunha1.github.io/starbucks-project/
 
 ---
 
@@ -86,6 +89,9 @@ A dynamic landing page inspired by the GTA universe, created to explore visual i
 - Interactive elements with JavaScript  
 - Section-based layout  
 - Strong visual identity  
+
+🔗 Live Demo:  
+https://gabrielcunha1.github.io/gta-project/
 
 ---
 
