@@ -2,49 +2,72 @@
   <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" width="420" />
 </div>
 
----
-
-## Gabriel Cunha  
-**Front-End Developer | HTML • CSS • JavaScript**
-
-I build structured, responsive, and business-oriented web interfaces, focusing on clean code, usability, and visual consistency.  
-Currently developing real projects to strengthen my front-end fundamentals and prepare for my first professional opportunity.
-
----
-
-## About
-
-I am a **front-end developer in training** focused on building **functional and well-structured web interfaces** using HTML, CSS, and JavaScript.
-
-My learning approach is entirely practical: I recreate real-world layouts, institutional websites, and brand-inspired pages to improve my understanding of layout composition, responsiveness, semantic structure, and maintainable code.
-
-I am currently seeking my **first junior front-end role**, where I can grow technically, learn from experienced developers, and contribute with discipline, responsibility, and continuous improvement.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=7B68EE&size=22&lines=Hello%2C+I'm+Gabriel;Front-End+Developer+in+Training;Building+real+web+projects"
+    />
+  </a>
+</div>
 
 ---
 
-## Technical Skills
+## About Me
 
-- **Languages:** HTML5, CSS3, JavaScript  
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code  
-- **Concepts:** Responsive Design, Semantic HTML, UI Structure, Basic DOM Manipulation  
+I’m **Gabriel**, a front-end developer in training focused on building **clean, responsive, and visually consistent web interfaces**.
+
+My work is centered on **HTML, CSS, and JavaScript**, applying these technologies through **real projects**, including institutional websites and brand-inspired landing pages. I focus on layout structure, responsiveness, usability, and maintainable code.
+
+I’m currently preparing for my **first junior front-end opportunity**, where I can grow technically, learn from experienced developers, and contribute with responsibility and consistency.
 
 ---
 
-## Selected Projects
+## Core Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</div>
+
+---
+
+## Featured Projects
+
+### Front-End Portfolio
+
+<div align="center">
+
+<a href="https://github.com/gabrielcunha1/spiderman-project" target="_blank">
+  <img src="https://i.imgur.com/goRjM2L.png" width="260px" alt="Spider-Man Project" />
+</a>
+
+<a href="https://github.com/gabrielcunha1/starbucks-project" target="_blank">
+  <img src="https://i.imgur.com/AD7eF9k.png" width="260px" alt="Starbucks Project" />
+</a>
+
+<a href="https://github.com/gabrielcunha1/gta-project" target="_blank">
+  <img src="https://i.imgur.com/ShGXCru.png" width="260px" alt="GTA Project" />
+</a>
+
+<a href="https://github.com/gabrielcunha1/demolidora-renovo" target="_blank">
+  <img src="https://i.imgur.com/QLCHAwL.jpeg" width="260px" alt="Demolidora Renovo Project" />
+</a>
+
+</div>
+
+---
 
 ### Spider-Man Landing Page  
 **HTML • CSS • JavaScript**
 
-A responsive landing page inspired by the Spider-Man universe, developed to practice layout structure, visual hierarchy, and basic interactivity.
+A visually immersive landing page inspired by the Spider-Man universe, created to practice layout composition, visual hierarchy, and responsive behavior.
 
-**Focus areas:**
+Key points:
 - Semantic HTML structure  
-- Responsive layout techniques  
-- CSS organization and spacing  
+- Modern CSS layout techniques  
+- Responsive design across devices  
 - Basic JavaScript interactions  
 
-🔗 Live Demo  
+Live Demo:  
 https://gabrielcunha1.github.io/spiderman-project/
 
 ---
@@ -52,14 +75,14 @@ https://gabrielcunha1.github.io/spiderman-project/
 ### Starbucks Landing Page  
 **HTML • CSS**
 
-A brand-inspired landing page focused on clean UI composition and responsive design principles.
+A brand-inspired landing page focused on clean UI composition and responsive layout principles.
 
-**Focus areas:**
-- Brand consistency  
-- Layout alignment and spacing  
+Key points:
+- Consistent visual identity  
+- Organized and readable CSS  
 - Mobile-first responsiveness  
 
-🔗 Live Demo  
+Live Demo:  
 https://gabrielcunha1.github.io/starbucks-project/
 
 ---
@@ -67,14 +90,14 @@ https://gabrielcunha1.github.io/starbucks-project/
 ### GTA Landing Page  
 **HTML • CSS • JavaScript**
 
-A visually impactful landing page inspired by the GTA universe, created to explore stronger visual identity and simple interactivity.
+A landing page inspired by the GTA universe, designed to explore stronger visual impact and simple interactivity.
 
-**Focus areas:**
-- Section-based layout  
+Key points:
+- Section-based layout organization  
 - Visual contrast and hierarchy  
 - JavaScript-driven UI behavior  
 
-🔗 Live Demo  
+Live Demo:  
 https://gabrielcunha1.github.io/gta-project/
 
 ---
@@ -84,27 +107,32 @@ https://gabrielcunha1.github.io/gta-project/
 
 A real institutional website developed for a demolition company, focused on clarity, credibility, and usability.
 
-This project represents my ability to apply front-end fundamentals in a **real business context**, translating requirements into a functional and professional web presence.
+This project demonstrates my ability to translate real business needs into a functional and professional web presence.
 
-**Focus areas:**
+Key points:
 - Institutional content structure  
 - Service presentation and navigation  
-- Responsive design across devices  
+- Responsive design for all screen sizes  
 - Professional visual identity  
 
-🔗 Live Website  
+Live Website:  
 https://demolidorarenovo.com.br
 
 ---
 
-## Additional Work
+## Learning & Experiments
 
-More learning projects and experiments are available in my repositories:
+Additional learning projects and experiments are available here:
 
-🔗 https://github.com/gabrielcunha1?tab=repositories
+https://github.com/gabrielcunha1?tab=repositories
 
 ---
 
 ## Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=Profile%20Views&color=7B68EE&style=flat-square" />
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=gabrielcunha1&label=PROFILE%20VIEWS&color=7B68EE&style=flat-square" 
+    alt="Profile views"
+  />
+</div>
