@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://image.thum.io/get/width/1200/https://demolidorarenovo.com.br" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://64.media.tumblr.com/78d6b18a74dd48df9daba04feed6d935/e1b1142484d86b2d-de/s640x960/0ec9bdc4cf3072664cb146675b07396530af0241.gifv" width="420" />
 </div>
 
@@ -55,25 +49,67 @@ My goal is to land my **first junior opportunity**, where I can grow professiona
 </a>
 
 <a href="https://github.com/gabrielcunha1/demolidora-renovo" target="_blank">
-  <img src="https://image.thum.io/get/width/400/https://demolidorarenovo.com.br" width="260px" alt="Demolidora Renovo Project" />
+  <img src="https://i.imgur.com/QLCHAwL.jpeg" width="260px" alt="Demolidora Renovo Project" />
 </a>
 
 </div>
 
 ---
 
+### 🕷️ Spider-Man Project  
+**HTML • CSS • JavaScript**
+
+A visually immersive landing page inspired by the Spider-Man universe, focused on layout structure, cinematic presentation, and responsive design.
+
+- Semantic HTML structure  
+- Modern CSS styling and layout control  
+- Responsive behavior across devices  
+- Strong visual hierarchy and spacing  
+
+🔗 Live Demo  
+https://gabrielcunha1.github.io/spiderman-project/
+
+---
+
+### ☕ Starbucks Project  
+**HTML • CSS**
+
+A brand-inspired landing page focused on UI consistency, clean layout composition, and responsiveness.
+
+- Brand-oriented visual design  
+- Responsive layout principles  
+- Organized and readable CSS  
+
+🔗 Live Demo  
+https://gabrielcunha1.github.io/starbucks-project/
+
+---
+
+### 🚗 GTA Project  
+**HTML • CSS • JavaScript**
+
+A dynamic landing page inspired by the GTA universe, created to explore visual impact and basic interactivity.
+
+- Interactive elements with JavaScript  
+- Section-based layout organization  
+- Strong visual identity  
+
+🔗 Live Demo  
+https://gabrielcunha1.github.io/gta-project/
+
+---
+
 ### 🏗️ Demolidora Renovo – Institutional Website  
 **HTML • CSS • JavaScript**
 
-A professional institutional website developed for a **real company**, focused on credibility, clarity, and usability.
+A professional institutional website developed for a real demolition company, focused on clarity, credibility, and user experience.
 
-This project highlights my ability to design and build **business-oriented websites**, applying front-end fundamentals in a real-world scenario.
+This project represents my ability to build **real business-oriented websites**, even without formal courses, applying learned concepts in practice.
 
 - Institutional layout and content structure  
-- Fully responsive design  
-- Clear service presentation  
-- Professional visual identity  
-- Real client / real delivery  
+- Responsive design for all devices  
+- Clear service presentation and navigation  
+- Focus on usability and professional visual identity  
 
 🔗 Live Website  
 https://demolidorarenovo.com.br
