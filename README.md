@@ -16,9 +16,9 @@
 
 Hi, I’m **Gabriel**, a **front-end developer in training** with a strong interest in building clean, responsive, and visually engaging web interfaces.
 
-I focus on **HTML, CSS, and JavaScript**, creating real projects inspired by well-known brands and pop culture to strengthen my fundamentals, improve visual composition, and write cleaner code.
+I focus on **HTML, CSS, and JavaScript**, creating **real-world projects** inspired by brands, businesses, and pop culture to strengthen my fundamentals, improve visual composition, and write cleaner, more organized code.
 
-My goal is to land my **first junior opportunity**, where I can grow professionally, learn from experienced developers, and contribute with dedication and creativity.
+My goal is to land my **first junior opportunity**, where I can grow professionally, learn from experienced developers, and contribute with dedication, discipline, and creativity.
 
 ---
 
@@ -48,6 +48,10 @@ My goal is to land my **first junior opportunity**, where I can grow professiona
   <img src="https://i.imgur.com/ShGXCru.png" width="260px" alt="GTA Project" />
 </a>
 
+<a href="https://github.com/gabrielcunha1/demolidora-renovo" target="_blank">
+  <img src="https://i.imgur.com/Bu8fC0i.png" width="260px" alt="Demolidora Renovo Project" />
+</a>
+
 </div>
 
 ---
@@ -60,9 +64,9 @@ A visually immersive landing page inspired by the Spider-Man universe, focused o
 - Semantic HTML structure  
 - Modern CSS styling and layout control  
 - Responsive behavior across devices  
-- Visual hierarchy and spacing  
+- Strong visual hierarchy and spacing  
 
-🔗 Live Demo:  
+🔗 Live Demo  
 https://gabrielcunha1.github.io/spiderman-project/
 
 ---
@@ -70,13 +74,13 @@ https://gabrielcunha1.github.io/spiderman-project/
 ### ☕ Starbucks Project  
 **HTML • CSS**
 
-A brand-inspired landing page focused on UI consistency and clean layout composition.
+A brand-inspired landing page focused on UI consistency, clean layout composition, and responsiveness.
 
 - Brand-oriented visual design  
 - Responsive layout principles  
-- Organized and readable CSS
+- Organized and readable CSS  
 
-🔗 Live Demo:  
+🔗 Live Demo  
 https://gabrielcunha1.github.io/starbucks-project/
 
 ---
@@ -87,11 +91,28 @@ https://gabrielcunha1.github.io/starbucks-project/
 A dynamic landing page inspired by the GTA universe, created to explore visual impact and basic interactivity.
 
 - Interactive elements with JavaScript  
-- Section-based layout  
+- Section-based layout organization  
 - Strong visual identity  
 
-🔗 Live Demo:  
+🔗 Live Demo  
 https://gabrielcunha1.github.io/gta-project/
+
+---
+
+### 🏗️ Demolidora Renovo – Institutional Website  
+**HTML • CSS • JavaScript**
+
+A professional institutional website developed for a real demolition company, focused on clarity, credibility, and user experience.
+
+This project represents my ability to build **real business-oriented websites**, even without formal courses, applying learned concepts in practice.
+
+- Institutional layout and content structure  
+- Responsive design for all devices  
+- Clear service presentation and navigation  
+- Focus on usability and professional visual identity  
+
+🔗 Live Website  
+https://demolidorarenovo.com.br
 
 ---
 
