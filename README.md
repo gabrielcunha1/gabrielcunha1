@@ -101,15 +101,3 @@ https://demolidorarenovo.com.br
     alt="Profile views"
   />
 </div>
-
----
-
-## 🔥 Next Steps
-
-In the next step, I can:
-
-- 🔥 **Optimize this profile specifically for LinkedIn**
-- 🧲 **Decide which project should be highlighted first**
-- 🕷️ **Create a strong, recruiter-focused profile headline**
-
-Always focused on clarity, professionalism, and real-world positioning.
