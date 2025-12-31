@@ -48,7 +48,7 @@ I’m currently preparing for my **first junior front-end opportunity**, where I
   <img src="https://i.imgur.com/ShGXCru.png" width="260px" alt="GTA Project" />
 </a>
 
-<a href="https://github.com/gabrielcunha1/demolidora-renovo" target="_blank">
+<a href="www.demolidorarenovo.com.br" target="_blank">
   <img src="https://i.imgur.com/QLCHAwL.jpeg" width="260px" alt="Demolidora Renovo Project" />
 </a>
 
